@@ -1,0 +1,6 @@
+{
+  "name": "SkyGame Store",
+  "description": "វេទិកាលក់ហ្គេម និងកាតហ្គេមអនឡាញឈានមុខគេ តម្លៃសមរម្យ និងបញ្ជូនរហ័ស",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
